@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="PlayerSDBConnectionString-Web.config Connection String" description="PlayerSDBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-KQQHHP5\SQLEXPRESS;Initial Catalog=PlayerSDB;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="M:\\Simplilearn\\mphasis\\Phase-2\\day-15\\Assign14\\Assign14\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PlayerSDBConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

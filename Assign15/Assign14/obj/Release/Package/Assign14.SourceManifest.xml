@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="M:\Simplilearn\mphasis\Phase-2\day-15\Assign14\Assign14\obj\Release\Package\PackageTmp" />
+  <setAcl path="M:\Simplilearn\mphasis\Phase-2\day-15\Assign14\Assign14\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="M:\Simplilearn\mphasis\Phase-2\day-15\Assign14\Assign14\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
